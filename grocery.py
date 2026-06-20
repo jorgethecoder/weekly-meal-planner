@@ -157,14 +157,20 @@ class GroceryBuilder:
         for name, units in sorted(aggregated.items()):
             category = categories[name]
             
-            # Format quantity string (e.g., "2.0 cups and 1.0 tbsp olive oil")
+            # Format quantity string (e.g., "2 cups + 1 tbsp olive oil")
             qty_parts = []
             for unit, amt in sorted(units.items()):
-                # Format floats cleanly (e.g., 2.0 -> 2, 2.5 -> 2.5)
-                amt_str = f"{int(amt)}" if amt.is_integer() else f"{amt:.2f}"
+                # Round to nearest integer; if below 1, round to 1
+                rounded_amt = round(amt)
+                if rounded_amt < 1:
+                    rounded_amt = 1
+                else:
+                    rounded_amt = int(rounded_amt)
+                
+                amt_str = str(rounded_amt)
                 
                 # Singular/plural logic for display
-                if amt == 1 and unit != "whole":
+                if rounded_amt == 1 and unit != "whole":
                     qty_parts.append(f"{amt_str} {unit}")
                 elif unit == "whole":
                     qty_parts.append(amt_str)
