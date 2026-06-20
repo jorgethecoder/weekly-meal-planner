@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.env.local
+.env.*.local
+venv/
+ENV/
+env/
+
+# OS-specific
+.DS_Store
+
+# Local history (optional, but keep it tracked in Git repository to allow GitHub Actions to commit and persist it, so we don't ignore meal_history.json unless they want to keep it local only. However, to prevent local development testing from polluting Git, the user can choose. We will track meal_history.json by default but ignore environment files and caches.)

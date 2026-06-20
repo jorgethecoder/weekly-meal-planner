@@ -1,0 +1,599 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Weekly Meal Plan & Grocery List</title>
+        </head>
+        <body style="margin: 0; padding: 0; background-color: #f8fafc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased;">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color: #f8fafc; padding: 20px 10px;">
+                <tr>
+                    <td align="center">
+                        <table width="100%" max-width="650" style="max-width: 650px; background-color: transparent; border-collapse: collapse;">
+                            <!-- Header Brand Banner -->
+                            <tr>
+                                <td style="background: linear-gradient(135deg, #0d9488 0%, #0f766e 100%); border-radius: 16px 16px 0 0; padding: 35px 20px; text-align: center; color: #ffffff;">
+                                    <h1 style="margin: 0; font-size: 28px; font-weight: 800; letter-spacing: -0.02em;">Weekly Harvest</h1>
+                                    <p style="margin: 5px 0 0 0; font-size: 16px; color: #ccfbf1; font-weight: 400;">Your Automated Meal Planner & Shopping Companion</p>
+                                </td>
+                            </tr>
+                            
+                            <!-- Portion & Calorie Alert Banner -->
+                            <tr>
+                                <td style="background-color: #ffffff; border-left: 1px solid #e2e8f0; border-right: 1px solid #e2e8f0; padding: 24px 24px 10px 24px;">
+                                    <div style="background-color: #f0fdfa; border: 1px solid #ccfbf1; border-radius: 12px; padding: 16px; color: #115e59;">
+                                        <h3 style="margin-top: 0; margin-bottom: 6px; font-size: 15px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;">⚖️ Daily Calorie & Serving Partition Instructions</h3>
+                                        <p style="margin: 0; font-size: 14px; line-height: 1.5;">
+                                            This meal plan is tailored for a combined daily target of <strong>4,500 kcal</strong>:
+                                        </p>
+                                        <ul style="margin: 6px 0; padding-left: 20px; font-size: 14px; line-height: 1.5;">
+                                            <li><strong>Person A (2,500 kcal):</strong> Eat exactly <strong>5/9 (55.6%)</strong> of the prepared dish.</li>
+                                            <li><strong>Person B (2,000 kcal):</strong> Eat exactly <strong>4/9 (44.4%)</strong> of the prepared dish.</li>
+                                        </ul>
+                                        <p style="margin: 0; font-size: 12px; color: #0d9488; font-style: italic;">
+                                            *All recipes and their ingredient lists below have been scaled dynamically for these combined portions.
+                                        </p>
+                                    </div>
+                                </td>
+                            </tr>
+                            
+                            <!-- Section Title: Meal Plan -->
+                            <tr>
+                                <td style="background-color: #ffffff; border-left: 1px solid #e2e8f0; border-right: 1px solid #e2e8f0; padding: 20px 24px 10px 24px;">
+                                    <h2 style="margin: 0; font-size: 20px; color: #1e293b; font-weight: 800;">📅 Weekly Meal Plan</h2>
+                                </td>
+                            </tr>
+                            
+                            <!-- Meal Cards -->
+                            <tr>
+                                <td style="background-color: #ffffff; border-left: 1px solid #e2e8f0; border-right: 1px solid #e2e8f0; padding: 0 24px 10px 24px;">
+                                    
+            <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+                <h3 style="margin-top: 0; color: #0d9488; font-size: 20px; border-bottom: 2px solid #f1f5f9; padding-bottom: 8px; font-weight: 700;">Monday</h3>
+                
+                <!-- Breakfast -->
+                <div style="margin-bottom: 12px;">
+                    <span style="background-color: #f0fdf4; color: #166534; font-size: 11px; font-weight: 700; text-transform: uppercase; padding: 3px 8px; border-radius: 12px; display: inline-block; margin-bottom: 4px;">🍳 Breakfast</span>
+                    <div style="font-size: 15px; font-weight: 600; color: #1e293b;">
+                        <a href="https://example.com/recipes/greek-frittata" target="_blank" style="color: #0d9488; text-decoration: none; border-bottom: 1px dashed #0d9488;">Greek Tomato and Herb Frittata</a>
+                        <span style="font-size: 13px; font-weight: 400; color: #64748b; margin-left: 6px;">(~990 kcal total)</span>
+                    </div>
+                </div>
+                
+                <!-- Lunch -->
+                <div style="margin-bottom: 12px;">
+                    <span style="background-color: #eff6ff; color: #1e40af; font-size: 11px; font-weight: 700; text-transform: uppercase; padding: 3px 8px; border-radius: 12px; display: inline-block; margin-bottom: 4px;">🥗 Lunch</span>
+                    <div style="font-size: 15px; font-weight: 600; color: #1e293b;">
+                        <a href="https://example.com/recipes/shrimp-avocado-salad" target="_blank" style="color: #0d9488; text-decoration: none; border-bottom: 1px dashed #0d9488;">Lemon Shrimp and Avocado Salad</a>
+                        <span style="font-size: 13px; font-weight: 400; color: #64748b; margin-left: 6px;">(~1755 kcal total)</span>
+                    </div>
+                </div>
+                
+                <!-- Dinner -->
+                <div style="margin-bottom: 0;">
+                    <span style="background-color: #fff7ed; color: #9a3412; font-size: 11px; font-weight: 700; text-transform: uppercase; padding: 3px 8px; border-radius: 12px; display: inline-block; margin-bottom: 4px;">🍽️ Dinner</span>
+                    <div style="font-size: 15px; font-weight: 600; color: #1e293b;">
+                        <a href="https://example.com/recipes/pork-cabbage" target="_blank" style="color: #0d9488; text-decoration: none; border-bottom: 1px dashed #0d9488;">Pork Chop with Braised Cabbage</a>
+                        <span style="font-size: 13px; font-weight: 400; color: #64748b; margin-left: 6px;">(~1755 kcal total)</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+                <h3 style="margin-top: 0; color: #0d9488; font-size: 20px; border-bottom: 2px solid #f1f5f9; padding-bottom: 8px; font-weight: 700;">Tuesday</h3>
+                
+                <!-- Breakfast -->
+                <div style="margin-bottom: 12px;">
+                    <span style="background-color: #f0fdf4; color: #166534; font-size: 11px; font-weight: 700; text-transform: uppercase; padding: 3px 8px; border-radius: 12px; display: inline-block; margin-bottom: 4px;">🍳 Breakfast</span>
+                    <div style="font-size: 15px; font-weight: 600; color: #1e293b;">
+                        <a href="https://example.com/recipes/fruit-oatmeal" target="_blank" style="color: #0d9488; text-decoration: none; border-bottom: 1px dashed #0d9488;">Fruit and Nut Oatmeal</a>
+                        <span style="font-size: 13px; font-weight: 400; color: #64748b; margin-left: 6px;">(~990 kcal total)</span>
+                    </div>
+                </div>
+                
+                <!-- Lunch -->
+                <div style="margin-bottom: 12px;">
+                    <span style="background-color: #eff6ff; color: #1e40af; font-size: 11px; font-weight: 700; text-transform: uppercase; padding: 3px 8px; border-radius: 12px; display: inline-block; margin-bottom: 4px;">🥗 Lunch</span>
+                    <div style="font-size: 15px; font-weight: 600; color: #1e293b;">
+                        <a href="https://example.com/recipes/chickpea-salad" target="_blank" style="color: #0d9488; text-decoration: none; border-bottom: 1px dashed #0d9488;">Mediterranean Chickpea Salad</a>
+                        <span style="font-size: 13px; font-weight: 400; color: #64748b; margin-left: 6px;">(~1755 kcal total)</span>
+                    </div>
+                </div>
+                
+                <!-- Dinner -->
+                <div style="margin-bottom: 0;">
+                    <span style="background-color: #fff7ed; color: #9a3412; font-size: 11px; font-weight: 700; text-transform: uppercase; padding: 3px 8px; border-radius: 12px; display: inline-block; margin-bottom: 4px;">🍽️ Dinner</span>
+                    <div style="font-size: 15px; font-weight: 600; color: #1e293b;">
+                        <a href="https://example.com/recipes/tuna-steak" target="_blank" style="color: #0d9488; text-decoration: none; border-bottom: 1px dashed #0d9488;">Lemon Grilled Tuna Steak</a>
+                        <span style="font-size: 13px; font-weight: 400; color: #64748b; margin-left: 6px;">(~1755 kcal total)</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+                <h3 style="margin-top: 0; color: #0d9488; font-size: 20px; border-bottom: 2px solid #f1f5f9; padding-bottom: 8px; font-weight: 700;">Wednesday</h3>
+                
+                <!-- Breakfast -->
+                <div style="margin-bottom: 12px;">
+                    <span style="background-color: #f0fdf4; color: #166534; font-size: 11px; font-weight: 700; text-transform: uppercase; padding: 3px 8px; border-radius: 12px; display: inline-block; margin-bottom: 4px;">🍳 Breakfast</span>
+                    <div style="font-size: 15px; font-weight: 600; color: #1e293b;">
+                        <a href="https://example.com/recipes/banana-toast" target="_blank" style="color: #0d9488; text-decoration: none; border-bottom: 1px dashed #0d9488;">Almond Butter and Banana Toast</a>
+                        <span style="font-size: 13px; font-weight: 400; color: #64748b; margin-left: 6px;">(~990 kcal total)</span>
+                    </div>
+                </div>
+                
+                <!-- Lunch -->
+                <div style="margin-bottom: 12px;">
+                    <span style="background-color: #eff6ff; color: #1e40af; font-size: 11px; font-weight: 700; text-transform: uppercase; padding: 3px 8px; border-radius: 12px; display: inline-block; margin-bottom: 4px;">🥗 Lunch</span>
+                    <div style="font-size: 15px; font-weight: 600; color: #1e293b;">
+                        <a href="https://example.com/recipes/lentil-soup" target="_blank" style="color: #0d9488; text-decoration: none; border-bottom: 1px dashed #0d9488;">Lentil Soup with Spinach</a>
+                        <span style="font-size: 13px; font-weight: 400; color: #64748b; margin-left: 6px;">(~1755 kcal total)</span>
+                    </div>
+                </div>
+                
+                <!-- Dinner -->
+                <div style="margin-bottom: 0;">
+                    <span style="background-color: #fff7ed; color: #9a3412; font-size: 11px; font-weight: 700; text-transform: uppercase; padding: 3px 8px; border-radius: 12px; display: inline-block; margin-bottom: 4px;">🍽️ Dinner</span>
+                    <div style="font-size: 15px; font-weight: 600; color: #1e293b;">
+                        <a href="https://example.com/recipes/rosemary-chicken" target="_blank" style="color: #0d9488; text-decoration: none; border-bottom: 1px dashed #0d9488;">Grilled Rosemary Chicken Breast</a>
+                        <span style="font-size: 13px; font-weight: 400; color: #64748b; margin-left: 6px;">(~1755 kcal total)</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+                <h3 style="margin-top: 0; color: #0d9488; font-size: 20px; border-bottom: 2px solid #f1f5f9; padding-bottom: 8px; font-weight: 700;">Thursday</h3>
+                
+                <!-- Breakfast -->
+                <div style="margin-bottom: 12px;">
+                    <span style="background-color: #f0fdf4; color: #166534; font-size: 11px; font-weight: 700; text-transform: uppercase; padding: 3px 8px; border-radius: 12px; display: inline-block; margin-bottom: 4px;">🍳 Breakfast</span>
+                    <div style="font-size: 15px; font-weight: 600; color: #1e293b;">
+                        <a href="https://example.com/recipes/green-smoothie" target="_blank" style="color: #0d9488; text-decoration: none; border-bottom: 1px dashed #0d9488;">Green Smoothie Bowl</a>
+                        <span style="font-size: 13px; font-weight: 400; color: #64748b; margin-left: 6px;">(~990 kcal total)</span>
+                    </div>
+                </div>
+                
+                <!-- Lunch -->
+                <div style="margin-bottom: 12px;">
+                    <span style="background-color: #eff6ff; color: #1e40af; font-size: 11px; font-weight: 700; text-transform: uppercase; padding: 3px 8px; border-radius: 12px; display: inline-block; margin-bottom: 4px;">🥗 Lunch</span>
+                    <div style="font-size: 15px; font-weight: 600; color: #1e293b;">
+                        <a href="https://example.com/recipes/herb-potato-salad" target="_blank" style="color: #0d9488; text-decoration: none; border-bottom: 1px dashed #0d9488;">Mediterranean Herb Potato Salad</a>
+                        <span style="font-size: 13px; font-weight: 400; color: #64748b; margin-left: 6px;">(~1755 kcal total)</span>
+                    </div>
+                </div>
+                
+                <!-- Dinner -->
+                <div style="margin-bottom: 0;">
+                    <span style="background-color: #fff7ed; color: #9a3412; font-size: 11px; font-weight: 700; text-transform: uppercase; padding: 3px 8px; border-radius: 12px; display: inline-block; margin-bottom: 4px;">🍽️ Dinner</span>
+                    <div style="font-size: 15px; font-weight: 600; color: #1e293b;">
+                        <a href="https://example.com/recipes/roasted-chicken-thighs" target="_blank" style="color: #0d9488; text-decoration: none; border-bottom: 1px dashed #0d9488;">Roasted Chicken Thighs with Sweet Potatoes</a>
+                        <span style="font-size: 13px; font-weight: 400; color: #64748b; margin-left: 6px;">(~1755 kcal total)</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+                <h3 style="margin-top: 0; color: #0d9488; font-size: 20px; border-bottom: 2px solid #f1f5f9; padding-bottom: 8px; font-weight: 700;">Friday</h3>
+                
+                <!-- Breakfast -->
+                <div style="margin-bottom: 12px;">
+                    <span style="background-color: #f0fdf4; color: #166534; font-size: 11px; font-weight: 700; text-transform: uppercase; padding: 3px 8px; border-radius: 12px; display: inline-block; margin-bottom: 4px;">🍳 Breakfast</span>
+                    <div style="font-size: 15px; font-weight: 600; color: #1e293b;">
+                        <a href="https://example.com/recipes/chia-pudding" target="_blank" style="color: #0d9488; text-decoration: none; border-bottom: 1px dashed #0d9488;">Chia Seed Pudding with Coconut Milk</a>
+                        <span style="font-size: 13px; font-weight: 400; color: #64748b; margin-left: 6px;">(~990 kcal total)</span>
+                    </div>
+                </div>
+                
+                <!-- Lunch -->
+                <div style="margin-bottom: 12px;">
+                    <span style="background-color: #eff6ff; color: #1e40af; font-size: 11px; font-weight: 700; text-transform: uppercase; padding: 3px 8px; border-radius: 12px; display: inline-block; margin-bottom: 4px;">🥗 Lunch</span>
+                    <div style="font-size: 15px; font-weight: 600; color: #1e293b;">
+                        <a href="https://example.com/recipes/gazpacho" target="_blank" style="color: #0d9488; text-decoration: none; border-bottom: 1px dashed #0d9488;">Tomato Basil Gazpacho</a>
+                        <span style="font-size: 13px; font-weight: 400; color: #64748b; margin-left: 6px;">(~1755 kcal total)</span>
+                    </div>
+                </div>
+                
+                <!-- Dinner -->
+                <div style="margin-bottom: 0;">
+                    <span style="background-color: #fff7ed; color: #9a3412; font-size: 11px; font-weight: 700; text-transform: uppercase; padding: 3px 8px; border-radius: 12px; display: inline-block; margin-bottom: 4px;">🍽️ Dinner</span>
+                    <div style="font-size: 15px; font-weight: 600; color: #1e293b;">
+                        <a href="https://example.com/recipes/shrimp-pasta" target="_blank" style="color: #0d9488; text-decoration: none; border-bottom: 1px dashed #0d9488;">Garlic Herb Shrimp Pasta</a>
+                        <span style="font-size: 13px; font-weight: 400; color: #64748b; margin-left: 6px;">(~1755 kcal total)</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+                <h3 style="margin-top: 0; color: #0d9488; font-size: 20px; border-bottom: 2px solid #f1f5f9; padding-bottom: 8px; font-weight: 700;">Saturday</h3>
+                
+                <!-- Breakfast -->
+                <div style="margin-bottom: 12px;">
+                    <span style="background-color: #f0fdf4; color: #166534; font-size: 11px; font-weight: 700; text-transform: uppercase; padding: 3px 8px; border-radius: 12px; display: inline-block; margin-bottom: 4px;">🍳 Breakfast</span>
+                    <div style="font-size: 15px; font-weight: 600; color: #1e293b;">
+                        <a href="https://example.com/recipes/zucchini-scramble" target="_blank" style="color: #0d9488; text-decoration: none; border-bottom: 1px dashed #0d9488;">Zucchini and Basil Scramble</a>
+                        <span style="font-size: 13px; font-weight: 400; color: #64748b; margin-left: 6px;">(~990 kcal total)</span>
+                    </div>
+                </div>
+                
+                <!-- Lunch -->
+                <div style="margin-bottom: 12px;">
+                    <span style="background-color: #eff6ff; color: #1e40af; font-size: 11px; font-weight: 700; text-transform: uppercase; padding: 3px 8px; border-radius: 12px; display: inline-block; margin-bottom: 4px;">🥗 Lunch</span>
+                    <div style="font-size: 15px; font-weight: 600; color: #1e293b;">
+                        <a href="https://example.com/recipes/stuffed-peppers" target="_blank" style="color: #0d9488; text-decoration: none; border-bottom: 1px dashed #0d9488;">Quinoa Stuffed Bell Peppers</a>
+                        <span style="font-size: 13px; font-weight: 400; color: #64748b; margin-left: 6px;">(~1755 kcal total)</span>
+                    </div>
+                </div>
+                
+                <!-- Dinner -->
+                <div style="margin-bottom: 0;">
+                    <span style="background-color: #fff7ed; color: #9a3412; font-size: 11px; font-weight: 700; text-transform: uppercase; padding: 3px 8px; border-radius: 12px; display: inline-block; margin-bottom: 4px;">🍽️ Dinner</span>
+                    <div style="font-size: 15px; font-weight: 600; color: #1e293b;">
+                        <a href="https://example.com/recipes/pork-loin" target="_blank" style="color: #0d9488; text-decoration: none; border-bottom: 1px dashed #0d9488;">Pork Loin with Apple and Green Beans</a>
+                        <span style="font-size: 13px; font-weight: 400; color: #64748b; margin-left: 6px;">(~1755 kcal total)</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+                <h3 style="margin-top: 0; color: #0d9488; font-size: 20px; border-bottom: 2px solid #f1f5f9; padding-bottom: 8px; font-weight: 700;">Sunday</h3>
+                
+                <!-- Breakfast -->
+                <div style="margin-bottom: 12px;">
+                    <span style="background-color: #f0fdf4; color: #166534; font-size: 11px; font-weight: 700; text-transform: uppercase; padding: 3px 8px; border-radius: 12px; display: inline-block; margin-bottom: 4px;">🍳 Breakfast</span>
+                    <div style="font-size: 15px; font-weight: 600; color: #1e293b;">
+                        <a href="https://example.com/recipes/berry-oatmeal" target="_blank" style="color: #0d9488; text-decoration: none; border-bottom: 1px dashed #0d9488;">Almond Milk Oatmeal with Berries</a>
+                        <span style="font-size: 13px; font-weight: 400; color: #64748b; margin-left: 6px;">(~990 kcal total)</span>
+                    </div>
+                </div>
+                
+                <!-- Lunch -->
+                <div style="margin-bottom: 12px;">
+                    <span style="background-color: #eff6ff; color: #1e40af; font-size: 11px; font-weight: 700; text-transform: uppercase; padding: 3px 8px; border-radius: 12px; display: inline-block; margin-bottom: 4px;">🥗 Lunch</span>
+                    <div style="font-size: 15px; font-weight: 600; color: #1e293b;">
+                        <a href="https://example.com/recipes/tuna-bean-salad" target="_blank" style="color: #0d9488; text-decoration: none; border-bottom: 1px dashed #0d9488;">Tuna and White Bean Salad</a>
+                        <span style="font-size: 13px; font-weight: 400; color: #64748b; margin-left: 6px;">(~1755 kcal total)</span>
+                    </div>
+                </div>
+                
+                <!-- Dinner -->
+                <div style="margin-bottom: 0;">
+                    <span style="background-color: #fff7ed; color: #9a3412; font-size: 11px; font-weight: 700; text-transform: uppercase; padding: 3px 8px; border-radius: 12px; display: inline-block; margin-bottom: 4px;">🍽️ Dinner</span>
+                    <div style="font-size: 15px; font-weight: 600; color: #1e293b;">
+                        <a href="https://example.com/recipes/baked-cod" target="_blank" style="color: #0d9488; text-decoration: none; border-bottom: 1px dashed #0d9488;">Mediterranean Baked Cod</a>
+                        <span style="font-size: 13px; font-weight: 400; color: #64748b; margin-left: 6px;">(~1755 kcal total)</span>
+                    </div>
+                </div>
+            </div>
+            
+                                </td>
+                            </tr>
+                            
+                            <!-- Section Title: Groceries -->
+                            <tr>
+                                <td style="background-color: #ffffff; border-left: 1px solid #e2e8f0; border-right: 1px solid #e2e8f0; padding: 20px 24px 10px 24px;">
+                                    <h2 style="margin: 0; font-size: 20px; color: #1e293b; font-weight: 800;">🛒 Consolidated Grocery List</h2>
+                                </td>
+                            </tr>
+                            
+                            <!-- Grocery Lists -->
+                            <tr>
+                                <td style="background-color: #ffffff; border-left: 1px solid #e2e8f0; border-right: 1px solid #e2e8f0; border-radius: 0 0 16px 16px; padding: 0 24px 30px 24px; border-bottom: 1px solid #e2e8f0;">
+                                    
+            <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+                <h4 style="margin-top: 0; color: #334155; font-size: 16px; border-bottom: 2px solid #f1f5f9; padding-bottom: 8px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;">🥬 Vegetables & Fruits</h4>
+                <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+                    
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 0.83 diceds + 2.42 sliceds apple
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 4.18 cups arugula
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 21.94 asparagus
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 2.14 sliceds avocado
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 1.24 sliceds + 1.60 banana
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 9 leaves basil
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 2.74 choppeds + 4.28 bell pepper
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 0.77 cups blueberry
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 8.56 cups butter lettuce
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 4.62 choppeds carrot
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 4.62 choppeds celery stalks
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 3.37 cups cherry tomato
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 4.28 tbsp cilantro
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 1.07 cups corn
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 1.95 choppeds + 2.74 peeleds cucumber
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 20.94 cloves garlic
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 7.04 cups green bean
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 3.54 sliceds green onion
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 19.50 sliceds kalamata olive
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 1.83 zested and juiceds lemon
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 11.31 tbsp lemon juice
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 1.10 cups + 2.83 tbsp parsley
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 9.75 mediums potato
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 0.83 shreddeds red cabbage
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 0.97 choppeds + 1.22 diceds + 1.04 sliceds red onion
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 3.54 choppeds roma tomato
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 3.66 sprigs rosemary
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 7.81 cups spinach
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 7.92 sliceds strawberry
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 2.88 cubeds sweet potato
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 10.97 ripes tomato
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 1.80 shreddeds + 1.95 sliceds zucchini
+                </li>
+                
+                </ul>
+            </div>
+            
+            <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+                <h4 style="margin-top: 0; color: #334155; font-size: 16px; border-bottom: 2px solid #f1f5f9; padding-bottom: 8px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;">🥩 Proteins (Meat & Fish)</h4>
+                <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+                    
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 639.84 grams chicken breast
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 5.75 chicken thighs
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 585 grams cod
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 16.04 egg
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 3.31 pork chops
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 506.25 grams pork loin
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 781.88 grams shrimp
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 4.18 cans tuna
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 548.44 grams tuna steak
+                </li>
+                
+                </ul>
+            </div>
+            
+            <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+                <h4 style="margin-top: 0; color: #334155; font-size: 16px; border-bottom: 2px solid #f1f5f9; padding-bottom: 8px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;">🧂 Pantry Staples & Grains</h4>
+                <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+                    
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 0.36 cups almond
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 3.31 tbsp apple cider vinegar
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 1.07 cans black bean
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 2.31 cups brown lentil
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 2.09 cans cannellini bean
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 6.83 tbsp capers
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 0.49 cups + 1.60 tbsp chia seeds
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 2.92 cans chickpea
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 0.31 tsp cinnamon
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 2.44 tbsp dijon mustard
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 212.30 grams gluten-free pasta
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 0.80 cups granola
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 1.55 tbsp honey
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 1.98 tbsp maple syrup
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 52.18 tbsp olive oil
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 2.68 tsp oregano
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 1.07 cups quinoa
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 2.91 tbsp raisins
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 3.01 cups rolled oats
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 1.95 pinchs salt and pepper
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 7.96 slices sourdough bread
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 1.44 tsp thyme
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 9.24 cups vegetable broth
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 2.91 cups water
+                </li>
+                
+                </ul>
+            </div>
+            
+            <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+                <h4 style="margin-top: 0; color: #334155; font-size: 16px; border-bottom: 2px solid #f1f5f9; padding-bottom: 8px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;">🥛 Dairy & Lactose Alternatives</h4>
+                <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+                    
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 2.48 tbsp almond butter
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 4.69 cups almond milk
+                </li>
+                
+                <li style="padding: 8px 0; border-bottom: 1px solid #f1f5f9; font-size: 14px; color: #334155; display: flex; align-items: center;">
+                    <span style="color: #cbd5e1; margin-right: 10px; font-size: 16px; font-family: monospace;">☐</span> 1.98 cups coconut milk
+                </li>
+                
+                </ul>
+            </div>
+            
+                                </td>
+                            </tr>
+                            
+                            <!-- Footer -->
+                            <tr>
+                                <td style="padding: 25px 20px; text-align: center; color: #94a3b8; font-size: 12px; line-height: 1.5;">
+                                    <p style="margin: 0;">This email was automatically generated and sent via GitHub Actions.</p>
+                                    <p style="margin: 5px 0 0 0;">&copy; 2026 Weekly Harvest. Built for Python Automated Systems Course.</p>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </body>
+        </html>
+        
