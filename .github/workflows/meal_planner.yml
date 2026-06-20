@@ -41,8 +41,8 @@ jobs:
 
     - name: Commit and Push Meal History
       run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com" git config --local user.name "github-actions[bot]" git add .
+    git commit -m "chore: update meal history [skip ci]" || exit 0 git pull --rebase origin main git push origin main
         
         # Check if meal_history.json exists and has modifications
         if [ -f meal_history.json ]; then
