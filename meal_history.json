@@ -1,109 +1,5 @@
 [
   {
-    "date": "2026-06-20",
-    "meals": [
-      "Smoked Salmon and Dill Scramble",
-      "Arugula Salad with Roasted Tomatoes",
-      "Beef and Herb Sauté with Potatoes",
-      "Quinoa Breakfast Bowl",
-      "Tuscan White Bean and Kale Soup",
-      "Turkey Breast with Rosemary Potatoes",
-      "Olive Tapenade Sourdough Slice",
-      "Turkey and Avocado Salad",
-      "Chickpea and Vegetable Mediterranean Stew",
-      "Blueberry Almond Flour Pancakes",
-      "Cold Salmon Spinach Salad",
-      "Turkey Meatballs with Zucchini Noodles",
-      "Mediterranean Avocado Toast",
-      "White Bean Dip with Fresh Crudités",
-      "Mediterranean Lamb Quinoa Bowl",
-      "Hummus and Cucumber Toast",
-      "Grilled Chicken Salad Wrap",
-      "Baked Lemon Herb Salmon",
-      "Spinach and Tomato Scrambled Eggs",
-      "Roasted Quinoa and Veg Bowl",
-      "Baked Seabass with Fennel"
-    ]
-  },
-  {
-    "date": "2026-06-20",
-    "meals": [
-      "Greek Tomato and Herb Frittata",
-      "Lemon Shrimp and Avocado Salad",
-      "Pork Chop with Braised Cabbage",
-      "Fruit and Nut Oatmeal",
-      "Mediterranean Chickpea Salad",
-      "Lemon Grilled Tuna Steak",
-      "Almond Butter and Banana Toast",
-      "Lentil Soup with Spinach",
-      "Grilled Rosemary Chicken Breast",
-      "Green Smoothie Bowl",
-      "Mediterranean Herb Potato Salad",
-      "Roasted Chicken Thighs with Sweet Potatoes",
-      "Chia Seed Pudding with Coconut Milk",
-      "Tomato Basil Gazpacho",
-      "Garlic Herb Shrimp Pasta",
-      "Zucchini and Basil Scramble",
-      "Quinoa Stuffed Bell Peppers",
-      "Pork Loin with Apple and Green Beans",
-      "Almond Milk Oatmeal with Berries",
-      "Tuna and White Bean Salad",
-      "Mediterranean Baked Cod"
-    ]
-  },
-  {
-    "date": "2026-06-20",
-    "meals": [
-      "Olive Oil Fried Eggs with Asparagus",
-      "Mediterranean Falafel Quinoa Bowl",
-      "Grilled Lamb Chops with Potatoes",
-      "Mediterranean Avocado Toast",
-      "Lemon Shrimp and Avocado Salad",
-      "Roasted Chicken Thighs with Sweet Potatoes",
-      "Hummus and Cucumber Toast",
-      "Tuna and White Bean Salad",
-      "Baked Lemon Herb Salmon",
-      "Almond Butter and Banana Toast",
-      "Grilled Chicken Salad Wrap",
-      "Grilled Rosemary Chicken Breast",
-      "Green Smoothie Bowl",
-      "Lentil Soup with Spinach",
-      "Baked Seabass with Fennel",
-      "Blueberry Almond Flour Pancakes",
-      "White Bean Dip with Fresh Crudités",
-      "Beef and Herb Sauté with Potatoes",
-      "Chia Seed Pudding with Coconut Milk",
-      "Mediterranean Chickpea Salad",
-      "Turkey Breast with Rosemary Potatoes"
-    ]
-  },
-  {
-    "date": "2026-06-26",
-    "meals": [
-      "Almond Butter and Banana Toast",
-      "Tuscan White Bean and Kale Soup",
-      "Grilled Lamb Chops with Potatoes",
-      "Chia Seed Pudding with Coconut Milk",
-      "Roasted Quinoa and Veg Bowl",
-      "Mediterranean Lamb Quinoa Bowl",
-      "Almond Milk Oatmeal with Berries",
-      "Lemon Shrimp and Avocado Salad",
-      "Beef and Herb Sauté with Potatoes",
-      "Smoked Salmon and Dill Scramble",
-      "Mediterranean Herb Potato Salad",
-      "Lemon Grilled Tuna Steak",
-      "Spinach and Tomato Scrambled Eggs",
-      "Mediterranean Chickpea Salad",
-      "Turkey Breast with Rosemary Potatoes",
-      "Greek Tomato and Herb Frittata",
-      "Mediterranean Falafel Quinoa Bowl",
-      "Mediterranean Baked Cod",
-      "Olive Tapenade Sourdough Slice",
-      "Quinoa Stuffed Bell Peppers",
-      "Turkey Meatballs with Zucchini Noodles"
-    ]
-  },
-  {
     "date": "2026-07-03",
     "meals": [
       "Smoked Salmon and Dill Scramble",
@@ -127,6 +23,32 @@
       "Zucchini and Basil Scramble",
       "White Bean Dip with Fresh Crudités",
       "Baked Seabass with Fennel"
+    ]
+  },
+  {
+    "date": "2026-07-10",
+    "meals": [
+      "Chia Seed Pudding with Coconut Milk",
+      "Cold Salmon Spinach Salad",
+      "Beef and Herb Sauté with Potatoes",
+      "Mediterranean Avocado Toast",
+      "Turkey and Avocado Salad",
+      "Pork Loin with Apple and Green Beans",
+      "Greek Tomato and Herb Frittata",
+      "Mediterranean Chickpea Salad",
+      "Grilled Rosemary Chicken Breast",
+      "Blueberry Almond Flour Pancakes",
+      "Arugula Salad with Roasted Tomatoes",
+      "Garlic Herb Shrimp Pasta",
+      "Fruit and Nut Oatmeal",
+      "Quinoa Stuffed Bell Peppers",
+      "Turkey Meatballs with Zucchini Noodles",
+      "Hummus and Cucumber Toast",
+      "Mediterranean Herb Potato Salad",
+      "Turkey Breast with Rosemary Potatoes",
+      "Almond Milk Oatmeal with Berries",
+      "Tomato Basil Gazpacho",
+      "Mediterranean Baked Cod"
     ]
   }
 ]
