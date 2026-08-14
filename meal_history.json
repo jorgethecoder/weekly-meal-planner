@@ -1,31 +1,5 @@
 [
   {
-    "date": "2026-07-31",
-    "meals": [
-      "Spinach and Tomato Scrambled Eggs",
-      "Tuscan White Bean and Kale Soup",
-      "Mediterranean Baked Cod",
-      "Blueberry Almond Flour Pancakes",
-      "Turkey and Avocado Salad",
-      "Lemon Grilled Tuna Steak",
-      "Mediterranean Avocado Toast",
-      "Roasted Quinoa and Veg Bowl",
-      "Pork Loin with Apple and Green Beans",
-      "Olive Tapenade Sourdough Slice",
-      "Lemon Shrimp and Avocado Salad",
-      "Turkey Breast with Rosemary Potatoes",
-      "Almond Milk Oatmeal with Berries",
-      "Tuna and White Bean Salad",
-      "Baked Seabass with Fennel",
-      "Fruit and Nut Oatmeal",
-      "Mediterranean Falafel Quinoa Bowl",
-      "Mediterranean Lamb Quinoa Bowl",
-      "Almond Butter and Banana Toast",
-      "Tomato Basil Gazpacho",
-      "Turkey Meatballs with Zucchini Noodles"
-    ]
-  },
-  {
     "date": "2026-08-07",
     "meals": [
       "Zucchini and Basil Scramble",
@@ -49,6 +23,32 @@
       "Greek Tomato and Herb Frittata",
       "White Bean Dip with Fresh Crudités",
       "Chickpea and Vegetable Mediterranean Stew"
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "meals": [
+      "Mediterranean Avocado Toast",
+      "Grilled Chicken Salad Wrap",
+      "Turkey Meatballs with Zucchini Noodles",
+      "Blueberry Almond Flour Pancakes",
+      "Turkey and Avocado Salad",
+      "Turkey Breast with Rosemary Potatoes",
+      "Fruit and Nut Oatmeal",
+      "Tuna and White Bean Salad",
+      "Pork Loin with Apple and Green Beans",
+      "Spinach and Tomato Scrambled Eggs",
+      "Lemon Shrimp and Avocado Salad",
+      "Mediterranean Lamb Quinoa Bowl",
+      "Almond Butter and Banana Toast",
+      "Mediterranean Falafel Quinoa Bowl",
+      "Grilled Lamb Chops with Potatoes",
+      "Almond Milk Oatmeal with Berries",
+      "Tomato Basil Gazpacho",
+      "Mediterranean Baked Cod",
+      "Chia Seed Pudding with Coconut Milk",
+      "Tuscan White Bean and Kale Soup",
+      "Lemon Grilled Tuna Steak"
     ]
   }
 ]
