@@ -1,31 +1,5 @@
 [
   {
-    "date": "2026-08-07",
-    "meals": [
-      "Zucchini and Basil Scramble",
-      "Lentil Soup with Spinach",
-      "Garlic Herb Shrimp Pasta",
-      "Quinoa Breakfast Bowl",
-      "Mediterranean Herb Potato Salad",
-      "Grilled Rosemary Chicken Breast",
-      "Olive Oil Fried Eggs with Asparagus",
-      "Cold Salmon Spinach Salad",
-      "Baked Lemon Herb Salmon",
-      "Hummus and Cucumber Toast",
-      "Quinoa Stuffed Bell Peppers",
-      "Roasted Chicken Thighs with Sweet Potatoes",
-      "Green Smoothie Bowl",
-      "Mediterranean Chickpea Salad",
-      "Pork Chop with Braised Cabbage",
-      "Smoked Salmon and Dill Scramble",
-      "Arugula Salad with Roasted Tomatoes",
-      "Beef and Herb Sauté with Potatoes",
-      "Greek Tomato and Herb Frittata",
-      "White Bean Dip with Fresh Crudités",
-      "Chickpea and Vegetable Mediterranean Stew"
-    ]
-  },
-  {
     "date": "2026-08-14",
     "meals": [
       "Mediterranean Avocado Toast",
@@ -49,6 +23,32 @@
       "Chia Seed Pudding with Coconut Milk",
       "Tuscan White Bean and Kale Soup",
       "Lemon Grilled Tuna Steak"
+    ]
+  },
+  {
+    "date": "2026-08-21",
+    "meals": [
+      "Zucchini and Basil Scramble",
+      "Quinoa Stuffed Bell Peppers",
+      "Chickpea and Vegetable Mediterranean Stew",
+      "Olive Tapenade Sourdough Slice",
+      "Roasted Quinoa and Veg Bowl",
+      "Beef and Herb Sauté with Potatoes",
+      "Olive Oil Fried Eggs with Asparagus",
+      "White Bean Dip with Fresh Crudités",
+      "Pork Chop with Braised Cabbage",
+      "Greek Tomato and Herb Frittata",
+      "Lentil Soup with Spinach",
+      "Roasted Chicken Thighs with Sweet Potatoes",
+      "Green Smoothie Bowl",
+      "Cold Salmon Spinach Salad",
+      "Baked Lemon Herb Salmon",
+      "Hummus and Cucumber Toast",
+      "Mediterranean Chickpea Salad",
+      "Grilled Rosemary Chicken Breast",
+      "Smoked Salmon and Dill Scramble",
+      "Mediterranean Herb Potato Salad",
+      "Garlic Herb Shrimp Pasta"
     ]
   }
 ]
