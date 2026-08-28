@@ -1,31 +1,5 @@
 [
   {
-    "date": "2026-08-14",
-    "meals": [
-      "Mediterranean Avocado Toast",
-      "Grilled Chicken Salad Wrap",
-      "Turkey Meatballs with Zucchini Noodles",
-      "Blueberry Almond Flour Pancakes",
-      "Turkey and Avocado Salad",
-      "Turkey Breast with Rosemary Potatoes",
-      "Fruit and Nut Oatmeal",
-      "Tuna and White Bean Salad",
-      "Pork Loin with Apple and Green Beans",
-      "Spinach and Tomato Scrambled Eggs",
-      "Lemon Shrimp and Avocado Salad",
-      "Mediterranean Lamb Quinoa Bowl",
-      "Almond Butter and Banana Toast",
-      "Mediterranean Falafel Quinoa Bowl",
-      "Grilled Lamb Chops with Potatoes",
-      "Almond Milk Oatmeal with Berries",
-      "Tomato Basil Gazpacho",
-      "Mediterranean Baked Cod",
-      "Chia Seed Pudding with Coconut Milk",
-      "Tuscan White Bean and Kale Soup",
-      "Lemon Grilled Tuna Steak"
-    ]
-  },
-  {
     "date": "2026-08-21",
     "meals": [
       "Zucchini and Basil Scramble",
@@ -49,6 +23,32 @@
       "Smoked Salmon and Dill Scramble",
       "Mediterranean Herb Potato Salad",
       "Garlic Herb Shrimp Pasta"
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "meals": [
+      "Almond Butter and Banana Toast",
+      "Tomato Basil Gazpacho",
+      "Turkey Meatballs with Zucchini Noodles",
+      "Spinach and Tomato Scrambled Eggs",
+      "Tuscan White Bean and Kale Soup",
+      "Lemon Grilled Tuna Steak",
+      "Chia Seed Pudding with Coconut Milk",
+      "Mediterranean Falafel Quinoa Bowl",
+      "Pork Loin with Apple and Green Beans",
+      "Almond Milk Oatmeal with Berries",
+      "Arugula Salad with Roasted Tomatoes",
+      "Mediterranean Lamb Quinoa Bowl",
+      "Mediterranean Avocado Toast",
+      "Grilled Chicken Salad Wrap",
+      "Baked Seabass with Fennel",
+      "Quinoa Breakfast Bowl",
+      "Turkey and Avocado Salad",
+      "Mediterranean Baked Cod",
+      "Fruit and Nut Oatmeal",
+      "Tuna and White Bean Salad",
+      "Turkey Breast with Rosemary Potatoes"
     ]
   }
 ]
