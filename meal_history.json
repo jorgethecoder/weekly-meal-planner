@@ -1,31 +1,5 @@
 [
   {
-    "date": "2026-08-21",
-    "meals": [
-      "Zucchini and Basil Scramble",
-      "Quinoa Stuffed Bell Peppers",
-      "Chickpea and Vegetable Mediterranean Stew",
-      "Olive Tapenade Sourdough Slice",
-      "Roasted Quinoa and Veg Bowl",
-      "Beef and Herb Sauté with Potatoes",
-      "Olive Oil Fried Eggs with Asparagus",
-      "White Bean Dip with Fresh Crudités",
-      "Pork Chop with Braised Cabbage",
-      "Greek Tomato and Herb Frittata",
-      "Lentil Soup with Spinach",
-      "Roasted Chicken Thighs with Sweet Potatoes",
-      "Green Smoothie Bowl",
-      "Cold Salmon Spinach Salad",
-      "Baked Lemon Herb Salmon",
-      "Hummus and Cucumber Toast",
-      "Mediterranean Chickpea Salad",
-      "Grilled Rosemary Chicken Breast",
-      "Smoked Salmon and Dill Scramble",
-      "Mediterranean Herb Potato Salad",
-      "Garlic Herb Shrimp Pasta"
-    ]
-  },
-  {
     "date": "2026-08-28",
     "meals": [
       "Almond Butter and Banana Toast",
@@ -49,6 +23,32 @@
       "Fruit and Nut Oatmeal",
       "Tuna and White Bean Salad",
       "Turkey Breast with Rosemary Potatoes"
+    ]
+  },
+  {
+    "date": "2026-09-04",
+    "meals": [
+      "Blueberry Almond Flour Pancakes",
+      "Lentil Soup with Spinach",
+      "Beef and Herb Sauté with Potatoes",
+      "Smoked Salmon and Dill Scramble",
+      "Lemon Shrimp and Avocado Salad",
+      "Grilled Lamb Chops with Potatoes",
+      "Hummus and Cucumber Toast",
+      "Cold Salmon Spinach Salad",
+      "Pork Chop with Braised Cabbage",
+      "Green Smoothie Bowl",
+      "Mediterranean Herb Potato Salad",
+      "Chickpea and Vegetable Mediterranean Stew",
+      "Greek Tomato and Herb Frittata",
+      "White Bean Dip with Fresh Crudités",
+      "Grilled Rosemary Chicken Breast",
+      "Zucchini and Basil Scramble",
+      "Mediterranean Chickpea Salad",
+      "Roasted Chicken Thighs with Sweet Potatoes",
+      "Olive Tapenade Sourdough Slice",
+      "Roasted Quinoa and Veg Bowl",
+      "Baked Lemon Herb Salmon"
     ]
   }
 ]
