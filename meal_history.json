@@ -1,31 +1,5 @@
 [
   {
-    "date": "2026-08-28",
-    "meals": [
-      "Almond Butter and Banana Toast",
-      "Tomato Basil Gazpacho",
-      "Turkey Meatballs with Zucchini Noodles",
-      "Spinach and Tomato Scrambled Eggs",
-      "Tuscan White Bean and Kale Soup",
-      "Lemon Grilled Tuna Steak",
-      "Chia Seed Pudding with Coconut Milk",
-      "Mediterranean Falafel Quinoa Bowl",
-      "Pork Loin with Apple and Green Beans",
-      "Almond Milk Oatmeal with Berries",
-      "Arugula Salad with Roasted Tomatoes",
-      "Mediterranean Lamb Quinoa Bowl",
-      "Mediterranean Avocado Toast",
-      "Grilled Chicken Salad Wrap",
-      "Baked Seabass with Fennel",
-      "Quinoa Breakfast Bowl",
-      "Turkey and Avocado Salad",
-      "Mediterranean Baked Cod",
-      "Fruit and Nut Oatmeal",
-      "Tuna and White Bean Salad",
-      "Turkey Breast with Rosemary Potatoes"
-    ]
-  },
-  {
     "date": "2026-09-04",
     "meals": [
       "Blueberry Almond Flour Pancakes",
@@ -49,6 +23,32 @@
       "Olive Tapenade Sourdough Slice",
       "Roasted Quinoa and Veg Bowl",
       "Baked Lemon Herb Salmon"
+    ]
+  },
+  {
+    "date": "2026-09-11",
+    "meals": [
+      "Quinoa Breakfast Bowl",
+      "Mediterranean Falafel Quinoa Bowl",
+      "Turkey Meatballs with Zucchini Noodles",
+      "Almond Butter and Banana Toast",
+      "Tuna and White Bean Salad",
+      "Mediterranean Lamb Quinoa Bowl",
+      "Chia Seed Pudding with Coconut Milk",
+      "Turkey and Avocado Salad",
+      "Garlic Herb Shrimp Pasta",
+      "Fruit and Nut Oatmeal",
+      "Quinoa Stuffed Bell Peppers",
+      "Baked Seabass with Fennel",
+      "Spinach and Tomato Scrambled Eggs",
+      "Grilled Chicken Salad Wrap",
+      "Turkey Breast with Rosemary Potatoes",
+      "Olive Oil Fried Eggs with Asparagus",
+      "Arugula Salad with Roasted Tomatoes",
+      "Mediterranean Baked Cod",
+      "Mediterranean Avocado Toast",
+      "Tomato Basil Gazpacho",
+      "Lemon Grilled Tuna Steak"
     ]
   }
 ]
