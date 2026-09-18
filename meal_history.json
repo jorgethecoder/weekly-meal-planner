@@ -1,31 +1,5 @@
 [
   {
-    "date": "2026-09-04",
-    "meals": [
-      "Blueberry Almond Flour Pancakes",
-      "Lentil Soup with Spinach",
-      "Beef and Herb Sauté with Potatoes",
-      "Smoked Salmon and Dill Scramble",
-      "Lemon Shrimp and Avocado Salad",
-      "Grilled Lamb Chops with Potatoes",
-      "Hummus and Cucumber Toast",
-      "Cold Salmon Spinach Salad",
-      "Pork Chop with Braised Cabbage",
-      "Green Smoothie Bowl",
-      "Mediterranean Herb Potato Salad",
-      "Chickpea and Vegetable Mediterranean Stew",
-      "Greek Tomato and Herb Frittata",
-      "White Bean Dip with Fresh Crudités",
-      "Grilled Rosemary Chicken Breast",
-      "Zucchini and Basil Scramble",
-      "Mediterranean Chickpea Salad",
-      "Roasted Chicken Thighs with Sweet Potatoes",
-      "Olive Tapenade Sourdough Slice",
-      "Roasted Quinoa and Veg Bowl",
-      "Baked Lemon Herb Salmon"
-    ]
-  },
-  {
     "date": "2026-09-11",
     "meals": [
       "Quinoa Breakfast Bowl",
@@ -49,6 +23,32 @@
       "Mediterranean Avocado Toast",
       "Tomato Basil Gazpacho",
       "Lemon Grilled Tuna Steak"
+    ]
+  },
+  {
+    "date": "2026-09-18",
+    "meals": [
+      "Smoked Salmon and Dill Scramble",
+      "White Bean Dip with Fresh Crudités",
+      "Grilled Lamb Chops with Potatoes",
+      "Zucchini and Basil Scramble",
+      "Roasted Quinoa and Veg Bowl",
+      "Chickpea and Vegetable Mediterranean Stew",
+      "Olive Tapenade Sourdough Slice",
+      "Tuscan White Bean and Kale Soup",
+      "Beef and Herb Sauté with Potatoes",
+      "Green Smoothie Bowl",
+      "Mediterranean Chickpea Salad",
+      "Pork Chop with Braised Cabbage",
+      "Blueberry Almond Flour Pancakes",
+      "Cold Salmon Spinach Salad",
+      "Baked Lemon Herb Salmon",
+      "Hummus and Cucumber Toast",
+      "Lemon Shrimp and Avocado Salad",
+      "Grilled Rosemary Chicken Breast",
+      "Greek Tomato and Herb Frittata",
+      "Lentil Soup with Spinach",
+      "Roasted Chicken Thighs with Sweet Potatoes"
     ]
   }
 ]
