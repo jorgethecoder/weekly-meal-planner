@@ -1,31 +1,5 @@
 [
   {
-    "date": "2026-09-11",
-    "meals": [
-      "Quinoa Breakfast Bowl",
-      "Mediterranean Falafel Quinoa Bowl",
-      "Turkey Meatballs with Zucchini Noodles",
-      "Almond Butter and Banana Toast",
-      "Tuna and White Bean Salad",
-      "Mediterranean Lamb Quinoa Bowl",
-      "Chia Seed Pudding with Coconut Milk",
-      "Turkey and Avocado Salad",
-      "Garlic Herb Shrimp Pasta",
-      "Fruit and Nut Oatmeal",
-      "Quinoa Stuffed Bell Peppers",
-      "Baked Seabass with Fennel",
-      "Spinach and Tomato Scrambled Eggs",
-      "Grilled Chicken Salad Wrap",
-      "Turkey Breast with Rosemary Potatoes",
-      "Olive Oil Fried Eggs with Asparagus",
-      "Arugula Salad with Roasted Tomatoes",
-      "Mediterranean Baked Cod",
-      "Mediterranean Avocado Toast",
-      "Tomato Basil Gazpacho",
-      "Lemon Grilled Tuna Steak"
-    ]
-  },
-  {
     "date": "2026-09-18",
     "meals": [
       "Smoked Salmon and Dill Scramble",
@@ -49,6 +23,32 @@
       "Greek Tomato and Herb Frittata",
       "Lentil Soup with Spinach",
       "Roasted Chicken Thighs with Sweet Potatoes"
+    ]
+  },
+  {
+    "date": "2026-09-25",
+    "meals": [
+      "Spinach and Tomato Scrambled Eggs",
+      "Tomato Basil Gazpacho",
+      "Mediterranean Baked Cod",
+      "Almond Butter and Banana Toast",
+      "Mediterranean Falafel Quinoa Bowl",
+      "Lemon Grilled Tuna Steak",
+      "Quinoa Breakfast Bowl",
+      "Turkey and Avocado Salad",
+      "Garlic Herb Shrimp Pasta",
+      "Almond Milk Oatmeal with Berries",
+      "Arugula Salad with Roasted Tomatoes",
+      "Turkey Breast with Rosemary Potatoes",
+      "Chia Seed Pudding with Coconut Milk",
+      "Grilled Chicken Salad Wrap",
+      "Baked Seabass with Fennel",
+      "Fruit and Nut Oatmeal",
+      "Tuna and White Bean Salad",
+      "Mediterranean Lamb Quinoa Bowl",
+      "Olive Oil Fried Eggs with Asparagus",
+      "Mediterranean Herb Potato Salad",
+      "Turkey Meatballs with Zucchini Noodles"
     ]
   }
 ]
