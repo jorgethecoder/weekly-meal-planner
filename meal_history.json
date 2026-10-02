@@ -1,31 +1,5 @@
 [
   {
-    "date": "2026-09-18",
-    "meals": [
-      "Smoked Salmon and Dill Scramble",
-      "White Bean Dip with Fresh Crudités",
-      "Grilled Lamb Chops with Potatoes",
-      "Zucchini and Basil Scramble",
-      "Roasted Quinoa and Veg Bowl",
-      "Chickpea and Vegetable Mediterranean Stew",
-      "Olive Tapenade Sourdough Slice",
-      "Tuscan White Bean and Kale Soup",
-      "Beef and Herb Sauté with Potatoes",
-      "Green Smoothie Bowl",
-      "Mediterranean Chickpea Salad",
-      "Pork Chop with Braised Cabbage",
-      "Blueberry Almond Flour Pancakes",
-      "Cold Salmon Spinach Salad",
-      "Baked Lemon Herb Salmon",
-      "Hummus and Cucumber Toast",
-      "Lemon Shrimp and Avocado Salad",
-      "Grilled Rosemary Chicken Breast",
-      "Greek Tomato and Herb Frittata",
-      "Lentil Soup with Spinach",
-      "Roasted Chicken Thighs with Sweet Potatoes"
-    ]
-  },
-  {
     "date": "2026-09-25",
     "meals": [
       "Spinach and Tomato Scrambled Eggs",
@@ -49,6 +23,32 @@
       "Olive Oil Fried Eggs with Asparagus",
       "Mediterranean Herb Potato Salad",
       "Turkey Meatballs with Zucchini Noodles"
+    ]
+  },
+  {
+    "date": "2026-10-02",
+    "meals": [
+      "Smoked Salmon and Dill Scramble",
+      "Mediterranean Chickpea Salad",
+      "Grilled Lamb Chops with Potatoes",
+      "Zucchini and Basil Scramble",
+      "Lemon Shrimp and Avocado Salad",
+      "Pork Chop with Braised Cabbage",
+      "Green Smoothie Bowl",
+      "Roasted Quinoa and Veg Bowl",
+      "Pork Loin with Apple and Green Beans",
+      "Blueberry Almond Flour Pancakes",
+      "Tuscan White Bean and Kale Soup",
+      "Baked Lemon Herb Salmon",
+      "Hummus and Cucumber Toast",
+      "White Bean Dip with Fresh Crudités",
+      "Chickpea and Vegetable Mediterranean Stew",
+      "Mediterranean Avocado Toast",
+      "Cold Salmon Spinach Salad",
+      "Roasted Chicken Thighs with Sweet Potatoes",
+      "Olive Tapenade Sourdough Slice",
+      "Quinoa Stuffed Bell Peppers",
+      "Beef and Herb Sauté with Potatoes"
     ]
   }
 ]
