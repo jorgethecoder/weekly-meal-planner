@@ -1,31 +1,5 @@
 [
   {
-    "date": "2026-10-02",
-    "meals": [
-      "Smoked Salmon and Dill Scramble",
-      "Mediterranean Chickpea Salad",
-      "Grilled Lamb Chops with Potatoes",
-      "Zucchini and Basil Scramble",
-      "Lemon Shrimp and Avocado Salad",
-      "Pork Chop with Braised Cabbage",
-      "Green Smoothie Bowl",
-      "Roasted Quinoa and Veg Bowl",
-      "Pork Loin with Apple and Green Beans",
-      "Blueberry Almond Flour Pancakes",
-      "Tuscan White Bean and Kale Soup",
-      "Baked Lemon Herb Salmon",
-      "Hummus and Cucumber Toast",
-      "White Bean Dip with Fresh Crudités",
-      "Chickpea and Vegetable Mediterranean Stew",
-      "Mediterranean Avocado Toast",
-      "Cold Salmon Spinach Salad",
-      "Roasted Chicken Thighs with Sweet Potatoes",
-      "Olive Tapenade Sourdough Slice",
-      "Quinoa Stuffed Bell Peppers",
-      "Beef and Herb Sauté with Potatoes"
-    ]
-  },
-  {
     "date": "2026-10-09",
     "meals": [
       "Fruit and Nut Oatmeal",
@@ -49,6 +23,32 @@
       "Chia Seed Pudding with Coconut Milk",
       "Arugula Salad with Roasted Tomatoes",
       "Mediterranean Lamb Quinoa Bowl"
+    ]
+  },
+  {
+    "date": "2026-10-16",
+    "meals": [
+      "Mediterranean Avocado Toast",
+      "Cold Salmon Spinach Salad",
+      "Grilled Lamb Chops with Potatoes",
+      "Blueberry Almond Flour Pancakes",
+      "Roasted Quinoa and Veg Bowl",
+      "Turkey Breast with Rosemary Potatoes",
+      "Smoked Salmon and Dill Scramble",
+      "Quinoa Stuffed Bell Peppers",
+      "Roasted Chicken Thighs with Sweet Potatoes",
+      "Almond Milk Oatmeal with Berries",
+      "Tuscan White Bean and Kale Soup",
+      "Pork Chop with Braised Cabbage",
+      "Hummus and Cucumber Toast",
+      "Lemon Shrimp and Avocado Salad",
+      "Chickpea and Vegetable Mediterranean Stew",
+      "Green Smoothie Bowl",
+      "Mediterranean Herb Potato Salad",
+      "Baked Lemon Herb Salmon",
+      "Olive Tapenade Sourdough Slice",
+      "White Bean Dip with Fresh Crudités",
+      "Pork Loin with Apple and Green Beans"
     ]
   }
 ]
