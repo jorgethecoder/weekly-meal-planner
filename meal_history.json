@@ -1,31 +1,5 @@
 [
   {
-    "date": "2026-10-16",
-    "meals": [
-      "Mediterranean Avocado Toast",
-      "Cold Salmon Spinach Salad",
-      "Grilled Lamb Chops with Potatoes",
-      "Blueberry Almond Flour Pancakes",
-      "Roasted Quinoa and Veg Bowl",
-      "Turkey Breast with Rosemary Potatoes",
-      "Smoked Salmon and Dill Scramble",
-      "Quinoa Stuffed Bell Peppers",
-      "Roasted Chicken Thighs with Sweet Potatoes",
-      "Almond Milk Oatmeal with Berries",
-      "Tuscan White Bean and Kale Soup",
-      "Pork Chop with Braised Cabbage",
-      "Hummus and Cucumber Toast",
-      "Lemon Shrimp and Avocado Salad",
-      "Chickpea and Vegetable Mediterranean Stew",
-      "Green Smoothie Bowl",
-      "Mediterranean Herb Potato Salad",
-      "Baked Lemon Herb Salmon",
-      "Olive Tapenade Sourdough Slice",
-      "White Bean Dip with Fresh Crudités",
-      "Pork Loin with Apple and Green Beans"
-    ]
-  },
-  {
     "date": "2026-10-23",
     "meals": [
       "Zucchini and Basil Scramble",
@@ -49,6 +23,32 @@
       "Spinach and Tomato Scrambled Eggs",
       "Lentil Soup with Spinach",
       "Baked Seabass with Fennel"
+    ]
+  },
+  {
+    "date": "2026-10-30",
+    "meals": [
+      "Hummus and Cucumber Toast",
+      "White Bean Dip with Fresh Crudités",
+      "Baked Lemon Herb Salmon",
+      "Almond Milk Oatmeal with Berries",
+      "Quinoa Stuffed Bell Peppers",
+      "Pork Loin with Apple and Green Beans",
+      "Mediterranean Avocado Toast",
+      "Turkey and Avocado Salad",
+      "Grilled Lamb Chops with Potatoes",
+      "Olive Tapenade Sourdough Slice",
+      "Tuscan White Bean and Kale Soup",
+      "Roasted Chicken Thighs with Sweet Potatoes",
+      "Green Smoothie Bowl",
+      "Cold Salmon Spinach Salad",
+      "Beef and Herb Sauté with Potatoes",
+      "Blueberry Almond Flour Pancakes",
+      "Mediterranean Herb Potato Salad",
+      "Pork Chop with Braised Cabbage",
+      "Smoked Salmon and Dill Scramble",
+      "Lemon Shrimp and Avocado Salad",
+      "Turkey Breast with Rosemary Potatoes"
     ]
   }
 ]
