@@ -1,31 +1,5 @@
 [
   {
-    "date": "2026-10-30",
-    "meals": [
-      "Hummus and Cucumber Toast",
-      "White Bean Dip with Fresh Crudités",
-      "Baked Lemon Herb Salmon",
-      "Almond Milk Oatmeal with Berries",
-      "Quinoa Stuffed Bell Peppers",
-      "Pork Loin with Apple and Green Beans",
-      "Mediterranean Avocado Toast",
-      "Turkey and Avocado Salad",
-      "Grilled Lamb Chops with Potatoes",
-      "Olive Tapenade Sourdough Slice",
-      "Tuscan White Bean and Kale Soup",
-      "Roasted Chicken Thighs with Sweet Potatoes",
-      "Green Smoothie Bowl",
-      "Cold Salmon Spinach Salad",
-      "Beef and Herb Sauté with Potatoes",
-      "Blueberry Almond Flour Pancakes",
-      "Mediterranean Herb Potato Salad",
-      "Pork Chop with Braised Cabbage",
-      "Smoked Salmon and Dill Scramble",
-      "Lemon Shrimp and Avocado Salad",
-      "Turkey Breast with Rosemary Potatoes"
-    ]
-  },
-  {
     "date": "2026-11-06",
     "meals": [
       "Greek Tomato and Herb Frittata",
@@ -49,6 +23,32 @@
       "Spinach and Tomato Scrambled Eggs",
       "Tuna and White Bean Salad",
       "Grilled Rosemary Chicken Breast"
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "meals": [
+      "Chia Seed Pudding with Coconut Milk",
+      "Cold Salmon Spinach Salad",
+      "Pork Chop with Braised Cabbage",
+      "Green Smoothie Bowl",
+      "Quinoa Stuffed Bell Peppers",
+      "Turkey Breast with Rosemary Potatoes",
+      "Blueberry Almond Flour Pancakes",
+      "White Bean Dip with Fresh Crudités",
+      "Pork Loin with Apple and Green Beans",
+      "Smoked Salmon and Dill Scramble",
+      "Lemon Shrimp and Avocado Salad",
+      "Baked Lemon Herb Salmon",
+      "Mediterranean Avocado Toast",
+      "Tuscan White Bean and Kale Soup",
+      "Beef and Herb Sauté with Potatoes",
+      "Almond Milk Oatmeal with Berries",
+      "Roasted Quinoa and Veg Bowl",
+      "Grilled Lamb Chops with Potatoes",
+      "Hummus and Cucumber Toast",
+      "Turkey and Avocado Salad",
+      "Roasted Chicken Thighs with Sweet Potatoes"
     ]
   }
 ]
