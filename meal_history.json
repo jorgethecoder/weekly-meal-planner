@@ -1,31 +1,5 @@
 [
   {
-    "date": "2026-11-06",
-    "meals": [
-      "Greek Tomato and Herb Frittata",
-      "Mediterranean Falafel Quinoa Bowl",
-      "Garlic Herb Shrimp Pasta",
-      "Quinoa Breakfast Bowl",
-      "Tomato Basil Gazpacho",
-      "Lemon Grilled Tuna Steak",
-      "Zucchini and Basil Scramble",
-      "Lentil Soup with Spinach",
-      "Turkey Meatballs with Zucchini Noodles",
-      "Fruit and Nut Oatmeal",
-      "Mediterranean Chickpea Salad",
-      "Mediterranean Baked Cod",
-      "Almond Butter and Banana Toast",
-      "Arugula Salad with Roasted Tomatoes",
-      "Mediterranean Lamb Quinoa Bowl",
-      "Olive Oil Fried Eggs with Asparagus",
-      "Grilled Chicken Salad Wrap",
-      "Chickpea and Vegetable Mediterranean Stew",
-      "Spinach and Tomato Scrambled Eggs",
-      "Tuna and White Bean Salad",
-      "Grilled Rosemary Chicken Breast"
-    ]
-  },
-  {
     "date": "2026-11-13",
     "meals": [
       "Chia Seed Pudding with Coconut Milk",
@@ -49,6 +23,32 @@
       "Hummus and Cucumber Toast",
       "Turkey and Avocado Salad",
       "Roasted Chicken Thighs with Sweet Potatoes"
+    ]
+  },
+  {
+    "date": "2026-11-20",
+    "meals": [
+      "Spinach and Tomato Scrambled Eggs",
+      "Mediterranean Chickpea Salad",
+      "Mediterranean Lamb Quinoa Bowl",
+      "Quinoa Breakfast Bowl",
+      "Tuna and White Bean Salad",
+      "Chickpea and Vegetable Mediterranean Stew",
+      "Olive Oil Fried Eggs with Asparagus",
+      "Mediterranean Herb Potato Salad",
+      "Baked Seabass with Fennel",
+      "Almond Butter and Banana Toast",
+      "Mediterranean Falafel Quinoa Bowl",
+      "Garlic Herb Shrimp Pasta",
+      "Olive Tapenade Sourdough Slice",
+      "Grilled Chicken Salad Wrap",
+      "Grilled Rosemary Chicken Breast",
+      "Greek Tomato and Herb Frittata",
+      "Lentil Soup with Spinach",
+      "Mediterranean Baked Cod",
+      "Fruit and Nut Oatmeal",
+      "Arugula Salad with Roasted Tomatoes",
+      "Turkey Meatballs with Zucchini Noodles"
     ]
   }
 ]
