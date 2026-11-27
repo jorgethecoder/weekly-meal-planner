@@ -1,31 +1,5 @@
 [
   {
-    "date": "2026-11-13",
-    "meals": [
-      "Chia Seed Pudding with Coconut Milk",
-      "Cold Salmon Spinach Salad",
-      "Pork Chop with Braised Cabbage",
-      "Green Smoothie Bowl",
-      "Quinoa Stuffed Bell Peppers",
-      "Turkey Breast with Rosemary Potatoes",
-      "Blueberry Almond Flour Pancakes",
-      "White Bean Dip with Fresh Crudités",
-      "Pork Loin with Apple and Green Beans",
-      "Smoked Salmon and Dill Scramble",
-      "Lemon Shrimp and Avocado Salad",
-      "Baked Lemon Herb Salmon",
-      "Mediterranean Avocado Toast",
-      "Tuscan White Bean and Kale Soup",
-      "Beef and Herb Sauté with Potatoes",
-      "Almond Milk Oatmeal with Berries",
-      "Roasted Quinoa and Veg Bowl",
-      "Grilled Lamb Chops with Potatoes",
-      "Hummus and Cucumber Toast",
-      "Turkey and Avocado Salad",
-      "Roasted Chicken Thighs with Sweet Potatoes"
-    ]
-  },
-  {
     "date": "2026-11-20",
     "meals": [
       "Spinach and Tomato Scrambled Eggs",
@@ -49,6 +23,32 @@
       "Fruit and Nut Oatmeal",
       "Arugula Salad with Roasted Tomatoes",
       "Turkey Meatballs with Zucchini Noodles"
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "meals": [
+      "Blueberry Almond Flour Pancakes",
+      "Cold Salmon Spinach Salad",
+      "Grilled Lamb Chops with Potatoes",
+      "Green Smoothie Bowl",
+      "White Bean Dip with Fresh Crudités",
+      "Baked Lemon Herb Salmon",
+      "Hummus and Cucumber Toast",
+      "Lemon Shrimp and Avocado Salad",
+      "Turkey Breast with Rosemary Potatoes",
+      "Chia Seed Pudding with Coconut Milk",
+      "Tomato Basil Gazpacho",
+      "Lemon Grilled Tuna Steak",
+      "Mediterranean Avocado Toast",
+      "Roasted Quinoa and Veg Bowl",
+      "Roasted Chicken Thighs with Sweet Potatoes",
+      "Almond Milk Oatmeal with Berries",
+      "Turkey and Avocado Salad",
+      "Pork Loin with Apple and Green Beans",
+      "Smoked Salmon and Dill Scramble",
+      "Quinoa Stuffed Bell Peppers",
+      "Beef and Herb Sauté with Potatoes"
     ]
   }
 ]
